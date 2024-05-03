@@ -1,2 +1,2 @@
 # SQLAcademy
-Решения задач с сайта: sql-academy.org
+Решения задач из тренажёра [SQL Academy](sql-academy.org).
