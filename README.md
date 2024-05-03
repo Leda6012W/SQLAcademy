@@ -5,7 +5,7 @@
 
 <details>
 	<summary>Решение</summary>
-```sql
+``` sql
 SELECT name FROM Passenger
 ```
 </details>
