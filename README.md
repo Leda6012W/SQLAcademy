@@ -6,8 +6,7 @@
 <details>
 	<summary>Решение</summary>
 ```sql
-SELECT name
-FROM Passenger
+SELECT name FROM Passenger
 </details>
 
 **Задание 2.** Вывести названия всеx авиакомпаний
